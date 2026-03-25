@@ -58,17 +58,6 @@ An integrated system I’m building across infrastructure, social interaction, a
 
 ---
 
-## 🏠 Other Project
-
-### Homiq *(Backend System)*
-**Django • REST APIs**
-
-- Real estate marketplace backend  
-- Role-based system (buyers, sellers, agents)  
-- Booking + listing architecture  
-- Built as a **scalable MVP system**
-
----
 
 ## 🛠️ Tech Stack
 
