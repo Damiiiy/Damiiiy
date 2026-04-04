@@ -1,5 +1,5 @@
 <h1 align="center">Ndifreke Umoh Macauley </h1>
-<h3 align="center">Backend Engineer • Go Developer • Systems Architect</h3>
+<h3 align="center">Backend Engineer • Go and Python/Django Developer • Systems Architect</h3>
 
 <p align="center">
   <b>I build scalable systems, backend infrastructure, and AI-powered products.</b><br/>
